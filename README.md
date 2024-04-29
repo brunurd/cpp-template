@@ -1,10 +1,12 @@
-# cpp-template
+# CPP Template
 
 ## Dependencies
 - C++ (C++20)
 - CMake
 - Make
-- SFML (can be removed manually)
+
+### Optional (can be removed manually):
+- SFML
 - xxd
 
 To install in Debian OSes run in an UNIX shell (tested only with BASH):
