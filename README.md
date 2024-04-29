@@ -11,10 +11,10 @@
 
 To install in Debian OSes run in an UNIX shell (tested only with BASH):
 ```bash
-run install
+./run install
 ```
 
 ## Build and run
 ```bash
-run start
+./run start
 ```
