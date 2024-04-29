@@ -4,7 +4,7 @@
 - C++ (C++20)
 - CMake
 - Make
-- SFML
+- SFML (can be removed manually)
 - xxd
 
 To install in Debian OSes run in an UNIX shell (tested only with BASH):
