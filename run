@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+set -e
+
+PROJECT_DIR="$(dirname $0)"
+
+if [ -z "$1" ]; then
+    "$PROJECT_DIR/scripts/help.sh"
+else
+    "$PROJECT_DIR/scripts/$1.sh"
+fi
+
+
